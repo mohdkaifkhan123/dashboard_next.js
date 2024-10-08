@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "JIIBS Round 2",
-  description: "Created for JIIBS interview",
+  title: "JIIBS Round 1",
+  description: "",
 };
 
 export default function RootLayout({ children }) {
